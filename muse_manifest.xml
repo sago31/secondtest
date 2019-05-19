@@ -1,34 +1,32 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="s2.com" resolutions="1x" timestamp="1557744343985">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="s2.com" resolutions="1x" timestamp="1558017086945">
   <folder name="css">
-    <file name="site_global.css" crc="4217872932"/>
-    <file name="index.css" crc="3895588281" ref="index"/>
+    <file name="site_global.css" crc="312001045"/>
+    <file name="index.css" crc="3846876194" ref="index"/>
     <file name="juan-pablo.css" crc="3855999831" ref="juan-pablo"/>
-    <file name="paulo-freire.css" crc="3778843019" ref="paulo-freire"/>
     <file name="santos.css" crc="3955021212" ref="santos"/>
-    <file name="mauricio.css" crc="3923057741" ref="mauricio"/>
+    <file name="mauricio.css" crc="31540762" ref="mauricio"/>
     <file name="leslie.css" crc="4211228456" ref="leslie"/>
-    <file name="we.css" crc="384142598" ref="we"/>
-    <file name="andres.css" crc="378170320" ref="andres"/>
+    <file name="we.css" crc="3898692613" ref="we"/>
+    <file name="andres.css" crc="4107131813" ref="andres"/>
     <file name="lorena.css" crc="133625409" ref="lorena"/>
-    <file name="nosotros.css" crc="215172091" ref="nosotros"/>
+    <file name="nosotros.css" crc="4276688116" ref="nosotros"/>
     <file name="nicolas-guillen.css" crc="4216973582" ref="nicolas-guillen"/>
     <file name="manifesto.css" crc="4173937066" ref="manifesto"/>
-    <file name="javi2.css" crc="398456668" ref="javi2"/>
+    <file name="javi2.css" crc="397202628" ref="javi2"/>
     <file name="san2.css" crc="317365548" ref="san2"/>
-    <file name="michelle.css" crc="498265941" ref="michelle"/>
+    <file name="michelle.css" crc="4198624718" ref="michelle"/>
     <file name="mish-4.css" crc="218410935" ref="mish-4"/>
     <file name="mish-5.css" crc="237795310" ref="mish-5"/>
     <file name="mish-3.css" crc="4204207255" ref="mish-3"/>
     <file name="mish-1.css" crc="396279852" ref="mish-1"/>
     <file name="mish-2.css" crc="152544962" ref="mish-2"/>
-    <file name="adjuy-2.css" crc="3771789677" ref="adjuy-2"/>
-    <file name="f2.css" crc="360688068" ref="f2"/>
+    <file name="adjuy-2.css" crc="216892768" ref="adjuy-2"/>
+    <file name="f2.css" crc="4286741793" ref="f2"/>
     <file name="ana.css" crc="3780359689" ref="ana"/>
-    <file name="indexblock.css" crc="3820147583" ref="indexblock"/>
     <file name="tiago2.css" crc="4148481466" ref="tiago2"/>
-    <file name="nat-3.css" crc="3773347148" ref="nat-3"/>
-    <file name="nat-2.css" crc="4121096277" ref="nat-2"/>
-    <file name="nat.css" crc="3939658778" ref="nat"/>
+    <file name="nat-3.css" crc="311827459" ref="nat-3"/>
+    <file name="nat-2.css" crc="32057083" ref="nat-2"/>
+    <file name="nat.css" crc="439930365" ref="nat"/>
   </folder>
   <folder name="fonts">
     <file name="avara.woff" crc="4042143113"/>
@@ -53,108 +51,58 @@
     <file name="secuencia-01_2.webm" crc="3877882189" seo="true" mt="1557614295000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="museutils.js" crc="340535759" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="require.js" crc="7928878" ref="index:juan-pablo:paulo-freire:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:indexblock:tiago2:nat:nat-2:nat-3"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="mauricio:nosotros:f2"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:javi2:san2:adjuy-2:andres:we:ana:indexblock:leslie:tiago2:santos:nicolas-guillen:f2"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="museutils.js" crc="340535759" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="require.js" crc="7928878" ref="index:juan-pablo:santos:leslie:mauricio:manifesto:andres:lorena:we:nosotros:nicolas-guillen:javi2:san2:michelle:mish-1:mish-2:mish-3:mish-4:mish-5:adjuy-2:f2:ana:tiago2:nat:nat-2:nat-3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="mauricio:f2:nat:nat-2:nat-3"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:javi2:san2:adjuy-2:andres:we:ana:leslie:tiago2:santos:nicolas-guillen:f2"/>
     <file name="webpro.js" crc="4059564322" ref="javi2:san2"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="javi2:san2"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="javi2:san2"/>
     <file name="touchswipe.js" crc="4075097462" ref="javi2:san2"/>
   </folder>
   <folder name="images">
-    <file name="pvh_67.jpg" crc="507813811" ref="nosotros">
-      <caption webpage="manifesto" alt=""/>
-      <caption webpage="lorena" alt=""/>
-      <caption webpage="leslie" alt=""/>
-      <caption webpage="andres" alt=""/>
-      <caption webpage="nosotros" alt=""/>
-      <caption webpage="we" alt=""/>
-    </file>
-    <file name="bordes.jpg" crc="312974367" seo="true" ref="paulo-freire">
-      <caption webpage="paulo-freire" alt=""/>
-      <caption webpage="paulo-freire" alt=""/>
-    </file>
-    <file name="captura de pantalla 2019-03-06 a la(s) 32417 p m.jpg" crc="4227002244" seo="true" ref="paulo-freire">
-      <caption webpage="paulo-freire" alt=""/>
-    </file>
-    <file name="captura de pantalla 2019-02-25 a la(s) 32245 p m.jpg" crc="63004381" seo="true" ref="paulo-freire">
-      <caption webpage="paulo-freire" alt=""/>
-    </file>
-    <file name="tiago-03-03.svg" crc="4076122253" seo="true" ref="index:tiago2">
+    <file name="tiago-03-03.svg" crc="4076122253" ref="tiago2">
       <caption webpage="index" alt=""/>
       <caption webpage="indexblock" alt=""/>
     </file>
-    <file name="tiago-03-03_poster_.png" crc="323034230" ref="index"/>
-    <file name="san.gif" crc="3962150324" seo="true" ref="index:indexblock">
+    <file name="2.jpg" crc="400567037" seo="true" ref="javi2">
       <caption webpage="index" alt=""/>
       <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="adjuy.gif" crc="4256786091" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="javi.gif" crc="357767526" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="0dfe58c4-9a34-4a8f-95f9-38048aaa179b.jpg" crc="3995921424" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="1cec63cf-a6aa-457f-b0ee-cf81d262cca8.jpg" crc="526436760" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="06b2bee6-95d5-42c1-9094-b22b2dedf61a.jpg" crc="260868590" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="2.jpg" crc="435789584" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="04995817-f244-42e8-8986-b3c97d2567ee.jpg" crc="35224333" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="captura de pantalla 2019-04-27 a la(s) 81918 a m 1.jpg" crc="3851550267" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
+      <caption webpage="javi2" alt=""/>
     </file>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-12.svg" crc="3789288382" seo="true" ref="javi2">
+      <caption webpage="javi2" alt=""/>
+      <caption webpage="javi2" alt=""/>
       <caption webpage="sin-título-20" alt=""/>
-      <caption webpage="javi2" alt=""/>
-      <caption webpage="javi2" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="javi2:san2:index"/>
     <file name="svg dtruct_mesa de trabajo 1 copia 12_poster_.png" crc="4119795391" ref="javi2"/>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-13.svg" crc="264066858" seo="true" ref="javi2">
+      <caption webpage="javi2" alt=""/>
+      <caption webpage="javi2" alt=""/>
       <caption webpage="sin-título-20" alt=""/>
-      <caption webpage="javi2" alt=""/>
-      <caption webpage="javi2" alt=""/>
     </file>
     <file name="svg dtruct_mesa de trabajo 1 copia 13_poster_.png" crc="431506679" ref="javi2"/>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-16.svg" crc="3897892357" seo="true" ref="javi2">
+      <caption webpage="javi2" alt=""/>
+      <caption webpage="javi2" alt=""/>
       <caption webpage="sin-título-20" alt=""/>
-      <caption webpage="javi2" alt=""/>
-      <caption webpage="javi2" alt=""/>
     </file>
     <file name="svg dtruct_mesa de trabajo 1 copia 16_poster_.png" crc="3939962215" ref="javi2"/>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-17.svg" crc="4182894069" seo="true" ref="javi2">
+      <caption webpage="javi2" alt=""/>
+      <caption webpage="javi2" alt=""/>
       <caption webpage="sin-título-20" alt=""/>
-      <caption webpage="javi2" alt=""/>
-      <caption webpage="javi2" alt=""/>
     </file>
     <file name="svg dtruct_mesa de trabajo 1 copia 17_poster_.png" crc="162130933" ref="javi2"/>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-18.svg" crc="82485566" seo="true" ref="javi2">
+      <caption webpage="javi2" alt=""/>
+      <caption webpage="javi2" alt=""/>
       <caption webpage="sin-título-20" alt=""/>
-      <caption webpage="javi2" alt=""/>
-      <caption webpage="javi2" alt=""/>
     </file>
     <file name="svg dtruct_mesa de trabajo 1 copia 18_poster_.png" crc="3973548990" ref="javi2"/>
     <file name="loading.gif" crc="3815509949" ref="javi2:san2"/>
@@ -394,96 +342,13 @@
     </file>
     <file name="b san dtruct-59_poster_.png" crc="104563755" ref="san2"/>
     <file name="captura de pantalla 2019-04-29 a la(s) 94608 p m.jpg" crc="4121319291" ref="f2">
-      <caption webpage="f2" alt=""/>
       <caption webpage="sin-título-22" alt=""/>
+      <caption webpage="f2" alt=""/>
     </file>
-    <file name="08-daydream-comics-1.svg" crc="3952594978" seo="true" ref="mish-1">
-      <caption webpage="mish-1" alt=""/>
-    </file>
-    <file name="08 daydream comics-1_poster_.png" crc="467341822" ref="mish-1"/>
-    <file name="08-daydream-comics-2.svg" crc="4237409789" seo="true" ref="mish-2">
-      <caption webpage="mish-2" alt=""/>
-    </file>
-    <file name="08 daydream comics-2_poster_.png" crc="382125391" ref="mish-2"/>
-    <file name="08-daydream-comics-4.svg" crc="384176431" seo="true" ref="mish-3:mish-4">
-      <caption webpage="mish-4" alt=""/>
+    <file name="08-daydream-comics-4.svg" crc="384176431" seo="true" ref="mish-4:mish-3">
       <caption webpage="mish-3" alt=""/>
+      <caption webpage="mish-4" alt=""/>
     </file>
-    <file name="08 daydream comics-4_poster_.png" crc="4050828978" ref="mish-3"/>
-    <file name="08-daydream-comics-5.svg" crc="113773155" seo="true" ref="mish-5">
-      <caption webpage="mish-5" alt=""/>
-    </file>
-    <file name="08 daydream comics-5_poster_.png" crc="3821033056" ref="mish-5"/>
-    <file name="libro-colorear-07.svg" crc="3994444334" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="libro colorear-07_poster_.png" crc="3844426094" ref="index:indexblock"/>
-    <file name="libro-colorear-09.svg" crc="4228007706" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-      <caption webpage="indexblock" alt=""/>
-    </file>
-    <file name="libro colorear-09_poster_.png" crc="123956535" ref="index:indexblock"/>
     <file name="postal-02.svg" crc="3851066067" seo="true" ref="f2">
       <caption webpage="f2" alt=""/>
     </file>
@@ -492,7 +357,7 @@
       <caption webpage="f2" alt=""/>
     </file>
     <file name="postal-03_poster_.png" crc="285131141" ref="f2"/>
-    <file name="jtg-sur_mesa de trabajo 1_poster_.png" crc="3961431814" seo="true" ref="index:indexblock">
+    <file name="jtg-sur_mesa de trabajo 1_poster_.png" crc="3961431814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="indexblock" alt=""/>
     </file>
@@ -748,9 +613,6 @@
     <file name="libro_0010_boaventura-de-sousa-santos.png" crc="337808527" seo="true" ref="santos">
       <caption webpage="santos" alt=""/>
     </file>
-    <file name="apm_61400x2108.jpg" crc="3855198639" ref="mauricio">
-      <caption webpage="mauricio" alt=""/>
-    </file>
     <file name="victor_hugo_by_étienne_carjat_1876_-_full.jpg" crc="3926513547" seo="true" ref="nicolas-guillen">
       <caption webpage="nicolas-guillen" alt=""/>
     </file>
@@ -790,18 +652,14 @@
       <caption webpage="tiago2" alt=""/>
     </file>
     <file name="tiago-03-03_poster_u56678.png" crc="323034230" ref="tiago2"/>
-    <file name="captura de pantalla 2019-05-11 a la(s) 112251 p m.jpg" crc="415110426" seo="true" ref="nat">
+    <file name="captura de pantalla 2019-05-11 a la(s) 112251 p m.jpg" crc="490485978" ref="nat">
       <caption webpage="nat" alt=""/>
     </file>
-    <file name="captura de pantalla 2019-05-11 a la(s) 112349 p m.jpg" crc="403486487" seo="true" ref="nat-2">
+    <file name="captura de pantalla 2019-05-11 a la(s) 112349 p m.jpg" crc="236583840" ref="nat-2">
       <caption webpage="nat-2" alt=""/>
     </file>
-    <file name="captura de pantalla 2019-05-11 a la(s) 112402 p m.jpg" crc="287530037" seo="true" ref="nat-3">
+    <file name="captura de pantalla 2019-05-11 a la(s) 112402 p m.jpg" crc="118471036" ref="nat-3">
       <caption webpage="nat-3" alt=""/>
-    </file>
-    <file name="7643586928_a749150a9a_o (1).jpg" crc="3896173270" seo="true" ref="index:indexblock">
-      <caption webpage="index" alt=""/>
-      <caption webpage="indexblock" alt=""/>
     </file>
     <file name="svg-dtruct_mesa-de-trabajo-1-copia-29.svg" crc="264066858" seo="true" ref="javi2">
       <caption webpage="javi2" alt=""/>
@@ -864,9 +722,6 @@
     <file name="03_facade_12pm.jpg" crc="4007224071" seo="true" ref="javi2">
       <caption webpage="javi2" alt=""/>
     </file>
-    <file name="22.jpg" crc="400567037" seo="true" ref="javi2">
-      <caption webpage="javi2" alt=""/>
-    </file>
     <file name="3.jpg" crc="172818846" seo="true" ref="javi2">
       <caption webpage="javi2" alt=""/>
     </file>
@@ -882,33 +737,139 @@
     <file name="copia de para cad fachada anonia lopez de bello 2 copia.jpg" crc="517916569" seo="true" ref="javi2">
       <caption webpage="javi2" alt=""/>
     </file>
+    <file name="apm_6.jpg" crc="3855198639" ref="mauricio">
+      <caption webpage="mauricio" alt=""/>
+    </file>
+    <file name="plants-23.svg" crc="3928598310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-23_poster_.png" crc="3810419190" ref="index"/>
+    <file name="plants-24.svg" crc="3762733912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-24_poster_.png" crc="92617563" ref="index"/>
+    <file name="plants-21.svg" crc="240195063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-21_poster_.png" crc="3811372522" ref="index"/>
+    <file name="plants-22.svg" crc="315526076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-22_poster_.png" crc="3916900292" ref="index"/>
+    <file name="plants-11.svg" crc="3801476229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-11_poster_.png" crc="140532176" ref="index"/>
+    <file name="plants-17.svg" crc="163985925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-17_poster_.png" crc="3878546948" ref="index"/>
+    <file name="plants-16.svg" crc="3984687602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-16_poster_.png" crc="401977444" ref="index"/>
+    <file name="plants-15.svg" crc="491213432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-15_poster_.png" crc="4017249426" ref="index"/>
+    <file name="plants-14.svg" crc="3930942833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-14_poster_.png" crc="4233609395" ref="index"/>
+    <file name="plants-13.svg" crc="3844605665" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-13_poster_.png" crc="3960819126" ref="index"/>
+    <file name="plants-05.svg" crc="3954311565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-05_poster_.png" crc="3772895858" ref="index"/>
+    <file name="plants-10.svg" crc="501814756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-10_poster_.png" crc="3931445643" ref="index"/>
+    <file name="plants-09.svg" crc="3990336090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-09_poster_.png" crc="3947099547" ref="index"/>
+    <file name="plants-08.svg" crc="236384413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-08_poster_.png" crc="529839143" ref="index"/>
+    <file name="plants-07.svg" crc="22148497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-07_poster_.png" crc="188228588" ref="index"/>
+    <file name="plants-06.svg" crc="254883403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-06_poster_.png" crc="4108018829" ref="index"/>
+    <file name="plants-03.svg" crc="4248521562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-03_poster_.png" crc="3923772336" ref="index"/>
+    <file name="plants-04.svg" crc="4140095629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-04_poster_.png" crc="4100968391" ref="index"/>
+    <file name="plants-01.svg" crc="203669241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-01_poster_.png" crc="132358244" ref="index"/>
+    <file name="plants-19.svg" crc="4171251425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-19_poster_.png" crc="411443480" ref="index"/>
+    <file name="plants-12.svg" crc="4176123741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-12_poster_.png" crc="4279394969" ref="index"/>
+    <file name="plants-20.svg" crc="4127762632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plants-20_poster_.png" crc="355744108" ref="index"/>
+    <file name="08-daydream-comics-1.svg" crc="3952594978" seo="true" ref="mish-1">
+      <caption webpage="mish-1" alt=""/>
+    </file>
+    <file name="08 daydream comics-1_poster_.png" crc="467341822" ref="mish-1"/>
+    <file name="08-daydream-comics-2.svg" crc="4237409789" seo="true" ref="mish-2">
+      <caption webpage="mish-2" alt=""/>
+    </file>
+    <file name="08 daydream comics-2_poster_.png" crc="382125391" ref="mish-2"/>
+    <file name="08 daydream comics-4_poster_.png" crc="4050828978" ref="mish-3"/>
+    <file name="08-daydream-comics-5.svg" crc="113773155" seo="true" ref="mish-5">
+      <caption webpage="mish-5" alt=""/>
+    </file>
+    <file name="08 daydream comics-5_poster_.png" crc="3821033056" ref="mish-5"/>
+    <file name="screen shot 2019-05-16 at 141013.jpg" crc="164969764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4142539643" seo="true" mt="1557741309103" redirect="true"/>
-  <file name="juan-pablo.html" crc="194690021" seo="true" mt="1557740955074" redirect="true"/>
-  <file name="paulo-freire.html" crc="158680019" seo="true" mt="1557041592033" redirect="true"/>
-  <file name="santos.html" crc="3899955753" seo="true" mt="1557657923355" redirect="true"/>
-  <file name="leslie.html" crc="4000980406" seo="true" mt="1557503482602" redirect="true"/>
-  <file name="mauricio.html" crc="4204164806" seo="true" mt="1557611522318" redirect="true"/>
-  <file name="manifesto.html" crc="4214143136" seo="true" mt="1557743611241" redirect="true"/>
-  <file name="andres.html" crc="4032378021" seo="true" mt="1557590686014" redirect="true"/>
-  <file name="lorena.html" crc="3885411448" seo="true" mt="1557590572594" redirect="true"/>
-  <file name="we.html" crc="4137038560" seo="true" mt="1557732161400" redirect="true"/>
-  <file name="nosotros.html" crc="375379651" seo="true" mt="1557732169694" redirect="true"/>
+  <file name="index.html" crc="3779478252" seo="true" mt="1558016917763" redirect="true"/>
+  <file name="juan-pablo.html" crc="194690021" seo="true" mt="1558002074685" redirect="true"/>
+  <file name="santos.html" crc="3899955753" seo="true" mt="1558001783172" redirect="true"/>
+  <file name="leslie.html" crc="4000980406" seo="true" mt="1558001783173" redirect="true"/>
+  <file name="mauricio.html" crc="351688765" seo="true" mt="1558001783174" redirect="true"/>
+  <file name="manifesto.html" crc="447255724" seo="true" mt="1558001783175" redirect="true"/>
+  <file name="andres.html" crc="99176371" seo="true" mt="1557822856885" redirect="true"/>
+  <file name="lorena.html" crc="4036631973" seo="true" mt="1558001783176" redirect="true"/>
+  <file name="we.html" crc="23261182" seo="true" mt="1558001783177" redirect="true"/>
+  <file name="nosotros.html" crc="4188653448" seo="true" mt="1558001783178" redirect="true"/>
   <file name="nicolas-guillen.html" crc="4265280399" seo="true" mt="1557658968706" redirect="true"/>
-  <file name="javi2.html" crc="7909308" seo="true" mt="1557741451058" redirect="true"/>
-  <file name="san2.html" crc="199916684" seo="true" mt="1557732793484" redirect="true"/>
-  <file name="michelle.html" crc="118230530" seo="true" mt="1557327911929" redirect="true"/>
-  <file name="mish-1.html" crc="331835794" seo="true" mt="1557431401367" redirect="true"/>
-  <file name="mish-2.html" crc="6518280" seo="true" mt="1557595570651" redirect="true"/>
-  <file name="mish-3.html" crc="71590904" seo="true" mt="1557595809801" redirect="true"/>
-  <file name="mish-4.html" crc="3854409630" seo="true" mt="1557595929542" redirect="true"/>
-  <file name="mish-5.html" crc="4046814076" seo="true" mt="1557596052782" redirect="true"/>
-  <file name="adjuy-2.html" crc="69642248" seo="true" mt="1557329750541" redirect="true"/>
-  <file name="f2.html" crc="203607709" seo="true" mt="1557612752456" redirect="true"/>
-  <file name="ana.html" crc="452938236" seo="true" mt="1557430400094" redirect="true"/>
-  <file name="indexblock.html" crc="423941667" seo="true" mt="1557744283063" redirect="true"/>
-  <file name="tiago2.html" crc="285945738" seo="true" mt="1557595266380" redirect="true"/>
-  <file name="nat.html" crc="13309347" seo="true" mt="1557614331306" redirect="true"/>
-  <file name="nat-2.html" crc="124449064" seo="true" mt="1557614350755" redirect="true"/>
-  <file name="nat-3.html" crc="293750741" seo="true" mt="1557614369673" redirect="true"/>
+  <file name="javi2.html" crc="3819237846" seo="true" mt="1557992152213" redirect="true"/>
+  <file name="san2.html" crc="3845039136" seo="true" mt="1558001783178" redirect="true"/>
+  <file name="michelle.html" crc="4046217030" seo="true" mt="1557992147624" redirect="true"/>
+  <file name="mish-1.html" crc="331835794" seo="true" mt="1558012560511" redirect="true"/>
+  <file name="mish-2.html" crc="6518280" seo="true" mt="1558012560512" redirect="true"/>
+  <file name="mish-3.html" crc="71590904" seo="true" mt="1558012560513" redirect="true"/>
+  <file name="mish-4.html" crc="3854409630" seo="true" mt="1558001783179" redirect="true"/>
+  <file name="mish-5.html" crc="4046814076" seo="true" mt="1558012560514" redirect="true"/>
+  <file name="adjuy-2.html" crc="385354268" seo="true" mt="1558001783180" redirect="true"/>
+  <file name="f2.html" crc="4152332562" seo="true" mt="1558001783180" redirect="true"/>
+  <file name="ana.html" crc="452938236" seo="true" mt="1558001783181" redirect="true"/>
+  <file name="tiago2.html" crc="3976278184" seo="true" mt="1558001783183" redirect="true"/>
+  <file name="nat.html" crc="3775470038" seo="true" mt="1557757017072" redirect="true"/>
+  <file name="nat-2.html" crc="3763435207" seo="true" mt="1557756995401" redirect="true"/>
+  <file name="nat-3.html" crc="3856608508" seo="true" mt="1557756982700" redirect="true"/>
 </manifest>

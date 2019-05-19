@@ -10,13 +10,13 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "f2.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "jquery.musepolyfill.bgsize.js", "f2.css"], "outOfDate":[]};
 </script>
   
   <title>F2</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=312001045"/>
-  <link rel="stylesheet" type="text/css" href="css/f2.css?crc=360688068" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/f2.css?crc=4286741793" id="pagesheet"/>
     <!--HTML Widget code-->
   
 <style>
@@ -122,8 +122,8 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u36972').registerOpacityScrollEffect([{"in":[-Infinity,307.5],"opacity":0,"fade":50},{"opacity":100,"in":[307.5,307.5]},{"in":[307.5,Infinity],"opacity":100,"fade":50}]);/* scroll effect */
-$('#u58220').registerOpacityScrollEffect([{"in":[-Infinity,702.83],"opacity":0,"fade":50},{"opacity":100,"in":[702.83,702.83]},{"in":[702.83,Infinity],"opacity":100,"fade":50}]);/* scroll effect */
+$('#u36972').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,307.5],"opacity":0},{"opacity":100,"in":[307.5,307.5]},{"fade":50,"in":[307.5,Infinity],"opacity":100}]);/* scroll effect */
+$('#u58220').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,702.83],"opacity":0},{"opacity":100,"in":[702.83,702.83]},{"fade":50,"in":[702.83,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
